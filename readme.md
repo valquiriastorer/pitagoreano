@@ -14,7 +14,7 @@ Se n é a soma de mais de um trio pitagoreano, então o trio (a,b,c) exibido pel
 
 ## Demonstração
 
-
+<div align="center"> <img src="https://user-images.githubusercontent.com/101532054/181859926-9b35bf64-fb1d-49eb-8c20-e72d4ff50692.png" width="700px"> </div>
 
 <br>
 > Este programa foi realizado como exercício de programação para a disciplina de Introdução à Computação (MAC0110) oferecida pela Universidade de São Paulo em 2021, ministrada pelos professores Jose Coelho de Pina Junior e Carlos Hitoshi Morimoto
